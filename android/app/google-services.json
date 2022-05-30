@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667659932098",
+    "project_id": "nady-system-5000f",
+    "storage_bucket": "nady-system-5000f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667659932098:android:f5403f76d9a67ebf88c65b",
+        "android_client_info": {
+          "package_name": "com.example.nady_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667659932098-hr5hkgq1tfl4p1a1kmdjbhvbff4l6jc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nady_system",
+            "certificate_hash": "6f4d38d6ce8c6eceb1be924c89333c01439c2f07"
+          }
+        },
+        {
+          "client_id": "667659932098-ahesoss9tvloa2jl8q81466qthj7k8tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpK3a8OQnLbb8MH8LOsHGAau4TisfmmmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667659932098-ahesoss9tvloa2jl8q81466qthj7k8tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
