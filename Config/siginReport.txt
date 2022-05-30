@@ -1,0 +1,9 @@
+Task :app:signingReport
+Variant: debug
+Config: debug
+Store: /Volumes/Applications/Users/nady/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 77:32:BA:07:8B:6A:61:17:6B:AD:CC:F0:CA:3D:09:5D
+SHA1: 6F:4D:38:D6:CE:8C:6E:CE:B1:BE:92:4C:89:33:3C:01:43:9C:2F:07
+SHA-256: 19:F5:48:53:4B:C8:6D:C7:D9:02:12:61:34:F0:B1:9D:D7:59:A1:A6:2B:63:8D:4D:28:A0:A4:05:D3:5E:2A:B9
+Valid until: Saturday, March 16, 2052
