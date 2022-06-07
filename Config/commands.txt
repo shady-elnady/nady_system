@@ -1,0 +1,5 @@
+get generate locales assets/languages
+
+get create page:Auth
+
+get generate model on lib/app/Data/Models from "https://jsonplaceholder.typicode.com/users"
